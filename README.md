@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrick-abreu-74b474224/)
 
 <div>
-  <a href="https://github.com/MarlusCSilva">
+  <a href="https://github.com/luizhenrick-programmer">
     <img height="200em" class="color" src="https://github-readme-stats.vercel.app/api?username=luizhenrick-programmer&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenrick-programmer&layout=donut&bg_color=30,4169E1,000000&title_color=fff&text_color=fff" />
   </a>

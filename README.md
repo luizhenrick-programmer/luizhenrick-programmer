@@ -27,6 +27,6 @@
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs"/></code>
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
-    <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL"/></code>
+    <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/></code>
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/></code>
 </div>

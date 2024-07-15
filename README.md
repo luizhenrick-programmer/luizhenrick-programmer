@@ -29,4 +29,8 @@
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/></code>
     <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/></code>
+  <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"/></code>
+    <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/></code>
+    <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma"/></code>
+    <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
 </div>
